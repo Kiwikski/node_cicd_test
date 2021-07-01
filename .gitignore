@@ -1,8 +1,8 @@
 # Source code
-#server/views/*
-#server/node_modules
-#client/node_modules
-#client/build
+server/views/*
+server/node_modules
+client/node_modules
+client/build
 .idea
 
 
