@@ -12,4 +12,7 @@ npm i
 cd server
 node server.js
 ```
+Navigate to `localhost:8080/#/`
+
+To add an entry, go to `localhost:8080/#/add` 
 
