@@ -4,6 +4,10 @@ import React, { Component } from "react";
 import "bootstrap/dist/css/bootstrap.min.css";
 import Switch from "react-router-dom/es/Switch";
 import Route from "react-router-dom/es/Route";
+import TutorialsList from "./components/tutorials-list.component";
+import AddTutorial from "./components/add-tutorial.component";
+import Tutorial from "./components/tutorial.component";
+const Link = require("react-router-dom").Link;
 
 class App extends Component {
     render() {
